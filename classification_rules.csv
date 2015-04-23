@@ -79,6 +79,12 @@ web.design,software/design
 d3,data/visualization
 infographics,data/visualization
 dickens,literature
+social.collaboration,software/tools
+qlik,data/visualization
+empathy,psychology/communication
+return.analysis,business/finance
+decision.analysis,business/decision
+articulate.storyline,software/tools/elearning
 dostoyevski,literature
 cehov,literature
 tolstoy,literature
@@ -92,6 +98,9 @@ thomas.mann,literature
 woolf,literature
 visual,data/visualization
 coding,software
+systems.analysis,software/analysis
+cloud.computing,software
+css,software/web
 solohov,literature
 psychology,psychology
 finance,business/finance
