@@ -1,9 +1,9 @@
-source='/Volumes/Seagate2/yayinlar/yayin/kitap5/'
-target='/Volumes/Seagate2/yayinlar/yayin/kitap4/'
-root=${PWD}
-classifications=${root}/classification_rules.csv
+source=${PWD}
+target=$1
+script_root=/Users/mertnuhoglu/projects/classify_books
+classifications=${script_root}/classification_rules.csv
 cd $source
-${root}/remove_publishers.sh ${root}/publishers.txt
+${script_root}/remove_publishers.sh ${script_root}/publishers.txt
 while IFS=, read keyword path
 do 
   echo "$keyword $path"

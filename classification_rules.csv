@@ -1,4 +1,12 @@
+google.analytics,software/google
+pentaho,data/tools
+mondrian,data/tools
+qlik,data/tools
 \\bjava\\b,software/java
+spark,data/tools/spark
+storm,data/tools
+cassandra,data/tools
+real.?time.*(analytics)?,data/real_time
 python,software/python
 ruby,software/ruby
 javascript,software/javascript
@@ -11,6 +19,7 @@ statistic,data/statistics
 machine.learning,data/machine_learning
 excel,data/excel
 big.data,data/big_data
+data.mining,data/data_mining
 analytics,data/analytics
 database,data/databases
 mysql,data/databases
@@ -18,7 +27,9 @@ postgre,data/databases
 sql,data/sql
 business,business
 test,software/test
+job,job
 inbound,internet_marketing
+linkedin,internet_marketing
 design.thinking,innovation
 seo,internet_marketing/seo
 marketing,business/marketing
@@ -105,3 +116,9 @@ solohov,literature
 psychology,psychology
 finance,business/finance
 software,software
+pandas,data/tools
+HBR,business
+decision.science,data
+intelligence,data
+recommender,data
+things,software/iot
