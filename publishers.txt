@@ -4,6 +4,7 @@ AW
 academic.press
 Academic
 Apress
+Context.Driven.Press
 CRC
 CU
 CUP
@@ -50,3 +51,6 @@ Westview.Press
 Houghton.Mifflin.Harcourt
 South-Western
 Wrox
+\(Book4You\)
+\(BookFi\)
+\(BookZZ.org\)
